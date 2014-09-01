@@ -1,0 +1,7 @@
+parameters:
+#    bangpound_satellizer.example.class: Bangpound\Bundle\SatellizerBundle\Example
+
+services:
+#    bangpound_satellizer.example:
+#        class: %bangpound_satellizer.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

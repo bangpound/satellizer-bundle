@@ -1,0 +1,22 @@
+{
+    "name": "bangpound/satellizer-bundle",
+    "description": "Satellizer Symfony bundle",
+    "require": {
+        "sp/bower-bundle": "~0.11"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Benjamin Doherty",
+            "email": "bjd@bangpound.org"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Bangpound\\Bundle\\SatellizerBundle\\": ""}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}

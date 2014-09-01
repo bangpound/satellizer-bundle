@@ -1,0 +1,7 @@
+{
+  "name": "satellizer",
+  "private": true,
+  "dependencies": {
+    "satellizer": "~0.5"
+  }
+}

@@ -1,0 +1,4 @@
+bangpound_satellizer_auth_provider:
+    pattern: /auth/fos
+    defaults:
+        _controller: BangpoundSatellizerBundle:Auth:provider
